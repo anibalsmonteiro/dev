@@ -1,7 +1,5 @@
 # dev Vitão é omi
-If(Visualizou=True){
-    "É viado"
-}
-else{
+If(Visualizou=True):
+    print ("É viado")
+else:
    "tem grande chance"
-}
